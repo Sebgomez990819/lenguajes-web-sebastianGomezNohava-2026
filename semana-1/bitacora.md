@@ -29,4 +29,10 @@ de Lenguajes Web en el año 2026.
 * 211 Peticiones
 * 7.6 MB 
 ## Reflexión: 
-Revisando la información, nos encontramos con que el sitio que cargó más rápido fue el sitio de la marca de ropa Buds. Vemos que la gran mayoría de peticiones realizadas están en status 200 lo cuál significa que todo esta cargando con éxito. Todos los certificados también se encuentran emitidos por diferentes entidades, cada una de ellas emitido en diferente fecha y horario. Además revisando la información de la carga y el tiempo de carga de los recursos; cada una de las páginas tiene todos los recursos bien cargados y aunque presentan errores son mínimos y así permiten que el tiempo de carga de las páginas sea menor.
+Revisando la información obtenida durante el análisis de los sitios web, se identificó que el sitio de la marca de ropa Buds fue el que presentó el menor tiempo de carga en comparación con los demás sitios evaluados. Este resultado indica un mejor desempeño en términos de velocidad y optimización de recursos, lo cual puede influir positivamente en la experiencia del usuario al navegar por la página.
+
+Asimismo, se observó que la gran mayoría de las peticiones realizadas registraron un código de estado HTTP 200, lo que significa que las solicitudes fueron procesadas correctamente por el servidor y que los recursos solicitados pudieron cargarse sin inconvenientes. Esto evidencia un funcionamiento estable y una adecuada disponibilidad de los elementos que conforman cada página web.
+
+Por otra parte, se verificó la información relacionada con los certificados de seguridad de los sitios analizados. Se encontró que estos fueron emitidos por diferentes entidades certificadoras y en fechas distintas, lo que demuestra que cada sitio cuenta con su propio mecanismo de validación y protección de datos.
+
+Finalmente, al revisar los recursos cargados y sus respectivos tiempos de respuesta, se concluyó que la mayoría de los elementos se cargan correctamente. Aunque se detectaron algunos errores menores, estos no afectan de manera significativa el rendimiento general de las páginas ni la experiencia de navegación de los usuarios.
